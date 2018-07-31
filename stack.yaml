@@ -1,7 +1,6 @@
-resolver: lts-7.19
+resolver: lts-12.4
 
 packages:
-  - ./
+  - .
 
-extra-deps:
-  - X11-1.8
+
